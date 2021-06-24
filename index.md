@@ -8,7 +8,7 @@
       <p><b>地址：河北省石家庄市长安区胜利北街道北二环东路17号石家庄铁道大学，邮编050043</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">![证件照](/zhengjianzhao.jpg)
+      <img src="/zhengjianzhao.jpg" width="100%">![证件照](/蒲顺利1（1）.jpg)
     </td>
   </tr>
 </table>
