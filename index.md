@@ -4,28 +4,28 @@
 		  width="800px">
 		<tr height="50"  style="text-align: center;">
 			<td rowspan="2" >姓名</td>
-            <td rowspan="2" width="100">刘晨</td>
+            <td rowspan="2" width="100">蒲顺利</td>
 			<td width="100">性别</td>
 			<td width="100">男</td>
 			<td>文化程度</td>
 			<td width="100">本科</td>
-			<td  rowspan="3" width="120"><img src="zhengjianzhao.jpg"></td>
+			<td  rowspan="3" width="120"><img src="证件照.jpg"></td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>身高</td>
-			<td>170cm</td>
+			<td>175cm</td>
 			<td>政治面貌</td>
 			<td>中共预备党员</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td width="100">籍贯</td>
-			<td colspan="2">河北省遵化市</td>
+			<td colspan="2">河北省唐山市</td>
 			<td>出生年月</td>
-			<td colspan="2">1998.02</td>
+			<td colspan="2">2000.04</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>户口所在地</td>
-			<td colspan="2">河北省遵化市</td>
+			<td colspan="2">河北省唐山市</td>
 			<td>婚否</td>
 			<td width="100">未婚</td>
 			<td>民族</td>
@@ -33,7 +33,7 @@
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>电话号码</td>
-			<td colspan="2">15614157932</td>
+			<td colspan="2">18617890406</td>
 			<td>现居住地址</td>
 			<td colspan="3">河北石家庄</td>
 		</tr>			
@@ -41,13 +41,13 @@
 			<td>毕业院校</td>
 			<td colspan="3">石家庄铁道大学</td>
 			<td>毕业时间</td>
-			<td colspan="2">2021.06</td>
+			<td colspan="2">2022.06</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>学习专业</td>
 			<td colspan="3">软件工程</td>
 			<td>爱好特长</td>
-			<td colspan="2">音乐动漫</td>
+			<td colspan="2">篮球</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="2">个人简介</td>
@@ -63,12 +63,12 @@
 			<td>担任职务</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td>2017.09</td>
+			<td>2018.09</td>
 			<td colspan="2">石家庄铁道大学</td>
 			<td>4年制</td>
 			<td>本科</td>
 			<td>软件工程</td>
-			<td>米阳青协会长，教官长</td>
+			<td>生活委员</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>英语应用水平</td>
@@ -84,49 +84,49 @@
 		</tr>
         	<tr height="50" style="text-align: center;">
 			<td rowspan="4">获奖情况</td>
-            <td rowspan="1">2020年</td>	
-			<td colspan="6">校级优秀团员</td>	
+            <td rowspan="1">2021年</td>	
+			<td colspan="6">校级大创项目成功结题，获得软件著作权一项，二等奖学金</td>	
 		</tr>
 		<tr height="50" style="text-align: center;">
-        <td rowspan="1">2019年</td>	
-			<td colspan="6">校级青马优秀班干部，校级青马成果展示二等奖，校级杰出志愿者，市级暑期社会实践优秀志愿者，获得软件著作权</td>	
+        <td rowspan="1">2020年</td>	
+			<td colspan="6">校级青马优秀学员，校级优秀团员，新生军训优秀教官，“互联网+”大赛校金奖，获得软件著作权一项，单项奖学金</td>	
 		</tr>
 		<tr height="50" style="text-align: center;">
-        <td rowspan="1">2018年</td>
-			<td colspan="6">市级调研河北二等奖，院级优秀志愿者，米阳青协优秀干事，新生军训优秀教官</td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-        <td rowspan="1">2017年</td>	
-	    <td colspan="6">为爱奔走公益活动优秀团队，宿舍文化大赛二等奖</td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td rowspan="4">项目经历</td>	
-			<td colspan="6">2018年石家庄地铁查询系统 开发环境：Eclipse+tomcat8.5+jdk1.7+java </td>	
-		</tr>
-		<tr height="50" style="text-align: center;">	
-	<td colspan="6">2019年创新年报在线填报系统 开发环境：Eclipse+tomcat8.5+jdk1.7+java</td>
-		</tr>
-		<tr height="50" style="text-align: center;">	
-			<td colspan="6">2019年新闻浏览软件 开发环境：Android studio</td>	
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td colspan="6">2019视频全量分析和建模系统 开发环境：Pycharm</td>
-		</tr>
-		<tr height="50" style="text-align: center;">
-			<td rowspan="4">在校任职及社会实践</td>	
-            <td rowspan="1">2020年</td>	
-			<td colspan="6">信息学院军训教官长</td>	
-		</tr>
-		<tr height="50" style="text-align: center;">
-        <td rowspan="1">2019年</td>		
-			<td colspan="6">信息米阳青协会长、信息学院军训主训教官，策划组织参与了疫情期间陈章社区线上辅导及防疫宣传活动</td>	
+        <td rowspan="1">2019年</td>
+			<td colspan="6">暑期社会实践先进个人，宿舍文化大赛一等奖，校级特色宿舍，单项奖学金</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
         <td rowspan="1">2018年</td>	
-			<td colspan="6">信息米阳青协公益部部长、信息学院军训辅训教官、2018届青马一班班长，策划组织参与了调研河北比赛，前往龙山校区周边村庄及陈章社区进行了为期两周的社会实践，并与居委会协商建立公益基地</td>
+	    <td colspan="6">辩论赛“最佳辩手”，辩论赛二等奖，篮球趣味赛二等奖，校艺术团每月之星</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
-        <td rowspan="1">2017年</td>		
-	<td colspan="6">信息米阳青协公益部干事，参与为爱奔走六小时公益活动</td>
+			<td rowspan="4">项目经历</td>	
+			<td colspan="6">2019年石家庄地铁查询系统 开发环境：Eclipse+tomcat8.0+jdk1.8+java </td>	
+		</tr>
+		<tr height="50" style="text-align: center;">	
+	<td colspan="6">2020年运动健身软件 开发环境：Android studio</td>
+		</tr>
+		<tr height="50" style="text-align: center;">	
+			<td colspan="6">2020年河北重大需求在线填报系统 开发环境：Eclipse+tomcat8.0+jdk1.8+java</td>	
+		</tr>
+		<tr height="50" style="text-align: center;">
+			<td colspan="6">2020民航知识图谱 开发环境：Pycharm</td>
+		</tr>
+		<tr height="50" style="text-align: center;">
+			<td rowspan="4">在校任职及社会实践</td>	
+            <td rowspan="1">2021年</td>	
+			<td colspan="6">信息学院军训教官长</td>	
+		</tr>
+		<tr height="50" style="text-align: center;">
+        <td rowspan="1">2020年</td>		
+			<td colspan="6">信息学院军训主训教官</td>	
+		</tr>
+		<tr height="50" style="text-align: center;">
+        <td rowspan="1">2019年</td>	
+			<td colspan="6">信息学院学生会部长，校艺术团办公室主任，信息学院军训辅训教官</td>
+		</tr>
+		<tr height="50" style="text-align: center;">
+        <td rowspan="1">2018年</td>		
+	<td colspan="6">院学生会干事，校艺术团干事，班级生活委员</td>
 		</tr>
 </table>
