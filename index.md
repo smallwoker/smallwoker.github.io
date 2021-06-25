@@ -9,7 +9,7 @@
 			<td width="100">男</td>
 			<td>文化程度</td>
 			<td width="100">本科</td>
-			<td  rowspan="3" width="120"><img src="证件照.jpg"></td>
+			<td  rowspan="3" width="120"><img src="zhengjianzhao.jpg"></td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>身高</td>
@@ -110,7 +110,7 @@
 			<td colspan="6">2020年河北重大需求在线填报系统 开发环境：Eclipse+tomcat8.0+jdk1.8+java</td>	
 		</tr>
 		<tr height="50" style="text-align: center;">
-			<td colspan="6">2020民航知识图谱 开发环境：Pycharm</td>
+			<td colspan="6">2021民航知识图谱 开发环境：Pycharm</td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="4">在校任职及社会实践</td>	
