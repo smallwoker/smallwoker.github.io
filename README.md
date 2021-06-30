@@ -36,7 +36,13 @@
 			<td colspan="2">18617890406</td>
 			<td>现居住地址</td>
 			<td colspan="3">河北石家庄</td>
-		</tr>			
+		</tr>
+	<tr height="50" style="text-align: center;">
+			<td>电话号码</td>
+			<td colspan="2">18617890406</td>
+			<td>现居住地址</td>
+			<td colspan="3">河北石家庄</td>
+		</tr>		
 		<tr height="50" style="text-align: center;">
 			<td>毕业院校</td>
 			<td colspan="3">石家庄铁道大学</td>
