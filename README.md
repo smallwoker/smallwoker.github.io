@@ -40,8 +40,8 @@
 	<tr height="50" style="text-align: center;">
 			<td>我的博客</td>
 			<td colspan="2"><a href="https://home.cnblogs.com/u/PSLQYZ/">点击链接</a></td>
-			<td>现居住地址</td>
-			<td colspan="3">河北石家庄</td>
+			<td>我的GitHub</td>
+			<td colspan="3"><a href="https://github.com/smallwoker/">点击链接</a></td>
 		</tr>		
 		<tr height="50" style="text-align: center;">
 			<td>毕业院校</td>
