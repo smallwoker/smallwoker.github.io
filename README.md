@@ -1,15 +1,11 @@
-<table border="1"
-		  cellspacing="0px"
-		  style="margin:auto;"
-		  width="800px">
-		<tr height="50"  style="text-align: center;">
-			<td rowspan="2" >姓名</td>
+<tr height="50" style="text-align: center;">
+			<td rowspan="2">姓名</td>
             <td rowspan="2" width="100">蒲顺利</td>
 			<td width="100">性别</td>
 			<td width="100">男</td>
 			<td>文化程度</td>
 			<td width="100">本科</td>
-			<td  rowspan="3" width="120"><img src="zhengjianzhao.jpg"></td>
+			<td rowspan="3" width="120"><img src="zhengjianzhao.jpg" /></td>
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>身高</td>
@@ -51,13 +47,8 @@
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td rowspan="2">个人简介</td>
-			<td colspan="6" rowspan="2">给我一个机会，还你一个惊喜</td>	
-		</tr>
-	      	
-		
-	         <tr height="50" style="text-align: center;">
-			<td rowspan="2" ><a href="https://home.cnblogs.com/u/PSLQYZ/">我的博客</a></td>
 			<td colspan="6" rowspan="2">给我一个机会，还你一个惊喜</td>
+		<tr height="50" style="text-align: center;">			
 		</tr>
 		<tr height="50" style="text-align: center;">
 			<td>就学时间</td>
@@ -134,5 +125,3 @@
         <td rowspan="1">2018年</td>		
 	<td colspan="6">院学生会干事，校艺术团干事，班级生活委员</td>
 		</tr>
-</table>
-
